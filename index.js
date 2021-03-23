@@ -1,1 +1,1 @@
-        1 file(s) copied.
+console.log("Hello from playground-git");
